@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="AvaTracer3.Gui/App.axaml" value="AvaTracer3.Gui/AvaTracer3.Gui.csproj" />
+        <entry key="AvaTracer3.Gui/AvaTracer3.Gui.axaml" value="AvaTracer3.Gui/AvaTracer3.Gui.csproj" />
+        <entry key="AvaTracer3.Gui/Views/MainWindow.axaml" value="AvaTracer3.Gui/AvaTracer3.Gui.csproj" />
+        <entry key="AvaTracer3.Gui/Views/MainWindowView.axaml" value="AvaTracer3.Gui/AvaTracer3.Gui.csproj" />
+        <entry key="AvaloniaOpenTK.Gui/AvaloniaOpenTKTestApp.axaml" value="AvaloniaOpenTK.Gui/AvaloniaOpenTK.Gui.csproj" />
+        <entry key="AvaloniaOpenTK.Gui/Views/MainWindowView.axaml" value="AvaloniaOpenTK.Gui/AvaloniaOpenTK.Gui.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

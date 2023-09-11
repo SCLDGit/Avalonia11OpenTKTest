@@ -1,0 +1,14 @@
+<Application xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="using:AvaloniaOpenTK"
+             xmlns:gui="clr-namespace:AvaloniaOpenTK.Gui"
+             x:Class="AvaloniaOpenTK.Gui.AvaloniaOpenTKGuiApp"
+             xmlns:materialIcons="clr-namespace:Material.Icons.Avalonia;assembly=Material.Icons.Avalonia"
+             RequestedThemeVariant="Light">
+
+    <Application.Styles>
+        <FluentTheme />
+        <materialIcons:MaterialIconStyles />
+    </Application.Styles>
+    
+</Application>
